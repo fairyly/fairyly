@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 fairyly
 - ⚡ I don't like you, just because I didn't work hard enough!
 
+
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=fairyly&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />

@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=fairyly&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=fairyly&margin-w=15&theme=gruvbox" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fairyly&hide=html,css)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fairyly)]()
+
+
+<!--
+## 参考
+- [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+-->

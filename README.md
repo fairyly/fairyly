@@ -9,12 +9,12 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on frontend developer
-- 🌱 I’m currently learning Vue and React and so on
-- 👯 I’m looking to collaborate on frontend develop
-- 🤔 I’m looking for help with frontend developer
-- 💬 Ask me about 
-- 📫 How to reach me: yueheqing@126.com
-- 😄 Pronouns: fairyly
-- ⚡ Fun fact: Google doesn't call apps for Google Glass apps! I don't like you, just because I didn't work hard enough!
+- 🔭 Frontend Developer
+- 🌱 Vue and React and so on
+- 👯 Frontend Develop
+- 🤔 Frontend
+- 💬 Fairyily 
+- 📫 Hyueheqing@126.com
+- 😄 fairyly
+- ⚡ I don't like you, just because I didn't work hard enough!
 

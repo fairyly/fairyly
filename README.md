@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 Frontend Develop
 - 🤔 Frontend
 - 💬 Fairyily 
-- 📫 Hyueheqing@126.com
+- 📫 yueheqing@126.com
 - 😄 fairyly
 - ⚡ I don't like you, just because I didn't work hard enough!
 

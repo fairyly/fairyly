@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 🌱 Vue and React and so on
 - 👯 Frontend Develop
 - 🤔 Frontend
-- 💬 Fairyily 
-- 📫 yueheqing@126.com
-- 😄 fairyly
+- 💬
+- 📫 
+- 😄 
 - ⚡ I don't like you, just because I didn't work hard enough!
 
 

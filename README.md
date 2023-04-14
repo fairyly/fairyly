@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 💬
 - 📫 
 - 😄 
+- ☯ 紫微斗数排盘、看婚姻、看财运、看运势、合八字；六壬看吉凶；看阳宅；
 - ⚡ I don't like you, just because I didn't work hard enough!
 
 
